@@ -13,7 +13,8 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 
 | Day | Date | Type | Topic | LeetCode | Status |
 |---|---|---|---|---:|---|
-| 01 | 09-09-2026 | Study Day | Arrays - Basics | 4/7 | 🟡 In Progress |
+| 01 | 09-09-2026 | Study Day | Arrays - Basics | 4/7 | 🟢 Completed |
+| 02 | 10-09-2026 | Test Day | Searching & Sorting | 2/7 | 🟢 Completed |
 
 ## Day 01 - Arrays Basics
 
@@ -47,6 +48,34 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 - `Day01_Arrays/key_patterns.md` - patterns learned
 - `Day01_Arrays/reflection.md` - daily reflection
 
+## Day 02 - Searching & Sorting
+
+### Topics Learned
+
+- Linear Search
+- Binary Search
+- Modified Binary Search
+- Searching in Rotated Sorted Arrays
+
+### LeetCode Solved
+
+- #33 Search in Rotated Sorted Array
+- #153 Find Minimum in Rotated Sorted Array
+
+**Day 02 LeetCode progress:** 2/7
+
+### Day 02 Files
+
+- `Day02_Searching_Sorting/notes.md` - searching algorithm notes
+- `Day02_Searching_Sorting/LinearSearch.java` - linear search implementation
+- `Day02_Searching_Sorting/BinarySearch.java` - binary search implementation
+- `Day02_Searching_Sorting/RotatedArraySearch.java` - rotated array search implementation
+- `Day02_Searching_Sorting/FindMinimumRotatedArray.java` - minimum search in rotated array
+- `Day02_Searching_Sorting/complexity.md` - complexity reference
+- `Day02_Searching_Sorting/key_patterns.md` - searching patterns learned
+- `Day02_Searching_Sorting/test_cases.md` - test cases
+- `Day02_Searching_Sorting/reflection.md` - daily reflection
+
 ## Topics Covered
 
 - Arrays - Basics
@@ -54,6 +83,10 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 ## LeetCode Progress
 
 **Solved in Day 01:** 4
+
+**Solved in Day 02:** 2
+
+**Total solved:** 6
 
 **Program target:** 378
 
