@@ -15,6 +15,7 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 |---|---|---|---|---:|---|
 | 01 | 09-09-2026 | Study Day | Arrays - Basics | 4/7 | 🟢 Completed |
 | 02 | 10-09-2026 | Test Day | Searching & Sorting | 2/7 | 🟢 Completed |
+| 03 | 11-09-2026 | Study Day | Arrays - Advanced | 1/7 | 🟢 Completed |
 
 ## Day 01 - Arrays Basics
 
@@ -78,7 +79,6 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 - `Day02_Searching_Sorting/test_cases.md` - test cases
 - `Day02_Searching_Sorting/test_case_matrix.md` - test coverage matrix
 - `Day02_Searching_Sorting/reflection.md` - daily reflection
-- `Day02_Searching_Sorting/linear_search_notes.md` - focused Linear Search notes
 - `Day02_Searching_Sorting/binary_search_notes.md` - focused Binary Search notes
 - `Day02_Searching_Sorting/modified_binary_search.md` - modified Binary Search pattern
 - `Day02_Searching_Sorting/rotated_array_observation.md` - rotated-array observation
@@ -89,10 +89,47 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 - `Day02_Searching_Sorting/complexity_examples.md` - complexity examples
 - `Day02_Searching_Sorting/leetcode_patterns.md` - LeetCode pattern summary
 
+## Day 03 - Arrays Advanced
+
+### Topics Learned
+
+- Array rotation
+- Right rotation using the reversal algorithm
+- `k % n` for large rotation counts
+- In-place two-pointer reversal
+- Subarray definition and contiguity
+- Number of possible subarrays: `n * (n + 1) / 2`
+- Prefix sums and cumulative sums
+- Prefix-sum range queries
+- Prefix Sum + HashMap concept for target subarray sums
+
+### LeetCode Solved
+
+- #189 Rotate Array
+
+**Day 03 LeetCode progress:** 1/7
+
+> LeetCode #560 was studied as a prefix-sum + HashMap concept but was not counted as solved.
+
+### Day 03 Files
+
+- `Day03_Arrays_Advanced/notes.md` - study notes
+- `Day03_Arrays_Advanced/ReverseArray.java` - in-place array reversal
+- `Day03_Arrays_Advanced/RotateArray.java` - array rotation implementation
+- `Day03_Arrays_Advanced/SubarrayBasics.java` - subarray basics and enumeration
+- `Day03_Arrays_Advanced/PrefixSum.java` - prefix sum and range-sum implementation
+- `Day03_Arrays_Advanced/key_patterns.md` - advanced array patterns
+- `Day03_Arrays_Advanced/complexity.md` - complexity analysis
+- `Day03_Arrays_Advanced/test_cases.md` - test cases
+- `Day03_Arrays_Advanced/reflection.md` - daily reflection
+- `LeetCode/2026-09-11/0189_Rotate_Array.java` - LeetCode #189 implementation
+- `LeetCode/2026-09-11/0189_Rotate_Array_notes.md` - LeetCode #189 approach notes
+
 ## Topics Covered
 
 - Arrays - Basics
 - Searching & Sorting
+- Arrays - Advanced
 
 ## LeetCode Progress
 
@@ -100,7 +137,9 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 
 **Solved in Day 02:** 2
 
-**Total solved:** 6
+**Solved in Day 03:** 1
+
+**Total solved:** 7
 
 **Program target:** 378
 
