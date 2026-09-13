@@ -72,13 +72,27 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 - `Day02_Searching_Sorting/RotatedArraySearch.java` - rotated array search implementation
 - `Day02_Searching_Sorting/FindMinimumRotatedArray.java` - minimum search in rotated array
 - `Day02_Searching_Sorting/complexity.md` - complexity reference
+- `Day02_Searching_Sorting/edge_cases.md` - searching edge cases
 - `Day02_Searching_Sorting/key_patterns.md` - searching patterns learned
+- `Day02_Searching_Sorting/decision_guide.md` - algorithm selection guide
 - `Day02_Searching_Sorting/test_cases.md` - test cases
+- `Day02_Searching_Sorting/test_case_matrix.md` - test coverage matrix
 - `Day02_Searching_Sorting/reflection.md` - daily reflection
+- `Day02_Searching_Sorting/linear_search_notes.md` - focused Linear Search notes
+- `Day02_Searching_Sorting/binary_search_notes.md` - focused Binary Search notes
+- `Day02_Searching_Sorting/modified_binary_search.md` - modified Binary Search pattern
+- `Day02_Searching_Sorting/rotated_array_observation.md` - rotated-array observation
+- `Day02_Searching_Sorting/rotated_minimum_notes.md` - minimum-search decision rule
+- `Day02_Searching_Sorting/binary_search_trace.md` - Binary Search trace
+- `Day02_Searching_Sorting/rotated_search_trace.md` - rotated-search trace
+- `Day02_Searching_Sorting/rotated_minimum_trace.md` - minimum-search trace
+- `Day02_Searching_Sorting/complexity_examples.md` - complexity examples
+- `Day02_Searching_Sorting/leetcode_patterns.md` - LeetCode pattern summary
 
 ## Topics Covered
 
 - Arrays - Basics
+- Searching & Sorting
 
 ## LeetCode Progress
 
