@@ -16,6 +16,15 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 | 01 | 09-09-2026 | Study Day | Arrays - Basics | 4/7 | 🟢 Completed |
 | 02 | 10-09-2026 | Test Day | Searching & Sorting | 2/7 | 🟢 Completed |
 | 03 | 11-09-2026 | Study Day | Arrays - Advanced | 1/7 | 🟢 Completed |
+| 04 | 12-09-2026 | Test Day | Mock Test - Recursion & Backtracking | Not recorded | 🟡 Logged |
+| 05 | 13-09-2026 | Study Day | Strings - Basics | Not recorded | 🟢 Logged |
+| 06 | 14-09-2026 | Study Day | Strings - Advanced | Not recorded | 🟢 Logged |
+| 07 | 15-09-2026 | Test Day | Mock Test - Linked List | Not recorded | 🟡 Logged |
+| 08 | 16-09-2026 | Study Day | Two Pointers & Sliding Window | Not recorded | 🟢 Logged |
+| 09 | 17-09-2026 | Test Day | Mock Test - Stack & Queue | Not recorded | 🟡 Logged |
+| 10 | 18-09-2026 | Study Day | Searching Algorithms | Not recorded | 🟢 Logged |
+| 11 | 19-09-2026 | Test Day | Mock Test - Hashing | Not recorded | 🟡 Logged |
+| 12 | 20-09-2026 | Study Day | Sorting Algorithms | Not recorded | 🟢 Logged |
 
 ## Day 01 - Arrays Basics
 
