@@ -148,3 +148,21 @@ Data Structures and Algorithms preparation in Java with daily LeetCode practice,
 ## GitHub Progress
 
 The commit history is used as the activity record. Commits are kept meaningful and tied to actual learning, implementation, testing, documentation, or corrections.
+
+## Days 04-12 - Schedule Log
+
+| Day | Date | Type | Scheduled Topic | Repository Status |
+|---|---|---|---|---|
+| 04 | 12-09-2026 | Test Day | Mock Test - Recursion & Backtracking | Fundamentals and pattern recognition recorded |
+| 05 | 13-09-2026 | Study Day | Strings - Basics (manipulation, built-in functions) | Topic programs and notes added |
+| 06 | 14-09-2026 | Study Day | Strings - Advanced (pattern matching, palindromes) | Topic programs and notes added |
+| 07 | 15-09-2026 | Test Day | Mock Test - Linked List | Schedule record only |
+| 08 | 16-09-2026 | Study Day | Two Pointers & Sliding Window Technique | Topic programs and notes added |
+| 09 | 17-09-2026 | Test Day | Mock Test - Stack & Queue | Schedule record only |
+| 10 | 18-09-2026 | Study Day | Searching Algorithms (Linear, Binary Search + variants) | Topic programs and notes added |
+| 11 | 19-09-2026 | Test Day | Mock Test - Hashing | Schedule record only |
+| 12 | 20-09-2026 | Study Day | Sorting Algorithms (Bubble, Selection, Insertion, Merge, Quick) | Five sorting implementations and notes added |
+
+### LeetCode Folder Policy
+
+No LeetCode folder was added for Days 04-12 because no completed LeetCode solutions were provided for those days. Topic-based Java programs and study notes are recorded separately. Test days contain only the scheduled activity because no mock-test questions or results were supplied.
