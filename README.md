@@ -175,3 +175,16 @@ The commit history is used as the activity record. Commits are kept meaningful a
 ### LeetCode Folder Policy
 
 No LeetCode folder was added for Days 04-12 because no completed LeetCode solutions were provided for those days. Topic-based Java programs and study notes are recorded separately. Test days contain only the scheduled activity because no mock-test questions or results were supplied.
+
+## Mock Test Preparation Folders
+
+The test days in the schedule are represented separately under `MockTests/`. These folders contain revision notes, sample Java programs, complexity notes, test cases, and reflections. They are **not claimed test submissions or scores**.
+
+- `MockTests/Day04_Recursion_Backtracking/` - recursion and backtracking revision
+- `MockTests/Day07_Linked_List/` - singly linked-list revision
+- `MockTests/Day09_Stack_Queue/` - stack, queue, and balanced-parentheses revision
+- `MockTests/Day11_Hashing/` - HashMap, HashSet, frequency counting, and lookup patterns
+
+## Study-Day Rule
+
+For Days 05-12, the repository records the scheduled topic through notes and topic-based Java programs. The `LeetCode/` directory is not extended unless an actual completed LeetCode solution is provided.
